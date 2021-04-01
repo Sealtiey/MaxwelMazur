@@ -1,5 +1,9 @@
 ### Seja Bem-vindo em meu perfil 👋
 
+Procurando uma empresa que bata com meu perfil,
+um cara curioso, que bate de frente tendo opnião forte,
+sempre buscando conhecimento! https://cursos.alura.com.br/user/maxwel-mazur/fullCertificate/4a1ddaf666696725cb43971d2b376371
+
 <!--
 
 **MaxwelMazur/MaxwelMazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
