@@ -1,5 +1,8 @@
 ### Seja Bem-vindo em meu perfil 👋
 
+![image](https://user-images.githubusercontent.com/52722027/113348756-66979480-930d-11eb-9f20-ead77a62eb11.png)
+
+
 Procurando uma empresa que bata com meu perfil,
 um cara curioso, que bate de frente tendo opnião forte,
 sempre buscando conhecimento! https://cursos.alura.com.br/user/maxwel-mazur/fullCertificate/4a1ddaf666696725cb43971d2b376371
