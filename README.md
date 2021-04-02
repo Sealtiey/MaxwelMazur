@@ -5,9 +5,8 @@
 <a href="https://www.instagram.com/maxwelmazur/" rel="nofollow"><img src="https://camo.githubusercontent.com/102f446542909313a410ae458adf15f3266fdfd34e84560477b236b771086cf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4331333538343f7374796c653d666c6174266c6162656c436f6c6f723d433133353834266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f636f64657077722f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-Instagram-C13584?style=flat&amp;labelColor=C13584&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/codepwr/" style="max-width:100%;"></a></p>
 
 
-Procurando uma empresa que bata com meu perfil,
-um cara curioso, que bate de frente sempre com respeito tendo opinião forte,
-sempre buscando conhecimento! https://cursos.alura.com.br/user/maxwel-mazur/fullCertificate/4a1ddaf666696725cb43971d2b376371
+
+Cursos: https://cursos.alura.com.br/user/maxwel-mazur/fullCertificate/4a1ddaf666696725cb43971d2b376371
 
 Meu portifolio: https://maxwelmazur.github.io/portifolio.github.io/
 
