@@ -6,7 +6,7 @@
 
 
 Procurando uma empresa que bata com meu perfil,
-um cara curioso, que bate de frente sempre com respeito tendo opnião forte,
+um cara curioso, que bate de frente sempre com respeito tendo opinião forte,
 sempre buscando conhecimento! https://cursos.alura.com.br/user/maxwel-mazur/fullCertificate/4a1ddaf666696725cb43971d2b376371
 
 <!--
