@@ -24,7 +24,7 @@ func init() {
   <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://stackshare.io/mysql" target="_blank"><img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" alt="mysql" width="40" height="40" /></a>
+  <a href="https://stackshare.io/mysql" target="_blank"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="mysql" width="40" height="40" /></a>
   <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
   <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
   <a href="https://stackshare.io/mint" target="_blank"><img src="https://www.iconninja.com/files/285/481/159/linux-mint-icon.svg" alt="mint" width="40" height="40" /></a>
