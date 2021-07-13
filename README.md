@@ -1,6 +1,6 @@
 # Olá, eu sou Maxwel Mazur 
 
-```ruby 
+```golang 
 package programmer
   func init() {}
 ```
