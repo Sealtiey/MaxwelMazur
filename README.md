@@ -8,9 +8,6 @@ package programmer
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/maxwel-mazur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maxwelmazur" height="30" width="40" /></a>
-    <a href="https://desenvolvendo.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="desenvolvendome" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/desenvolvendome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="desenvolvendome" height="30" width="40" /></a>
-    <a href="https://t.me/desenvolvendome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="marcodotcastro" height="30" width="40" /></a>
     <a href="https://instagram.com/desenvolvendome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="desenvolvendome" height="30" width="40" /></a>
     <a href="https://fb.com/desenvolvendome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="desenvolvendome" height="30" width="40" /></a>    
 </p>
