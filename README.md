@@ -1,7 +1,7 @@
 # Olá, eu sou Maxwel Mazur 
 
 ```golang 
-package Programmer
+package programmer
   func init() {}
 ```
 
