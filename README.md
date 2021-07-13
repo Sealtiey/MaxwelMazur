@@ -15,7 +15,7 @@ func init() {
 
 ---
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="500px" />
+<img align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif" width="70%" height="500px" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
