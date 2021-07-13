@@ -23,6 +23,7 @@ func init() {
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQnMdJV3ApiU3GVDtZId7eCPbxhCePZ_W7w&usqp=CAU" alt="go" width="40" height="40" /></a>
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="rails" width="40" height="40" /></a>
   <a href="https://stackshare.io/ruby" target="_blank"><img src="https://image.flaticon.com/icons/png/512/919/919842.png" alt="ruby" width="40" height="40" /></a>
+  <a href="https://stackshare.io/javascript" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKAiyBpEdxOjGDKr5zffZT7rk29JaAtK_O5VNbcRY92Fjj-k1XXqpJgi5wRQYXtvsjpo&usqp=CAU" alt="react" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
   <a href="https://stackshare.io/mysql" target="_blank"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="mysql" width="40" height="40" /></a>
