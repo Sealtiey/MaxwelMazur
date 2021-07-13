@@ -1,4 +1,4 @@
-# Hello, I am Maxwel Mazur 
+# Hello, i am Maxwel Mazur 
 
 ```golang 
 package programmer
