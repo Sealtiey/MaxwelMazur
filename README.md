@@ -2,7 +2,7 @@
 
 ```golang 
 package programmer
-  func init() {}
+  func init() {
 ```
 
 <p align="left">
@@ -47,7 +47,6 @@ package programmer
 	<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
     </p>
 
-```ruby 
-	end 
-end 
+```golang 
+   {  
 ```
