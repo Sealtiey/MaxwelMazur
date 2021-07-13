@@ -23,7 +23,7 @@ func init() {
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQnMdJV3ApiU3GVDtZId7eCPbxhCePZ_W7w&usqp=CAU" alt="go" width="40" height="40" /></a>
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="rails" width="40" height="40" /></a>
   <a href="https://stackshare.io/ruby" target="_blank"><img src="https://image.flaticon.com/icons/png/512/919/919842.png" alt="ruby" width="40" height="40" /></a>
-  <a href="https://stackshare.io/javascript" target="_blank"><img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/600px-Construct_3_Logo.svg.png" alt="construct" width="40" height="40" /></a>
+  <a href="https://stackshare.io/javascript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/600px-Construct_3_Logo.svg.png" alt="construct" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://thidu.dev/images/React.svg" alt="react" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
