@@ -22,14 +22,15 @@ func init() {
   <h4 align="left">Skills:</h4>
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
   <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-  <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-  <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+  <a href="https://stackshare.io/mariadb" target="_blank"><img src="https://raw.githubusercontent.com/docker-library/docs/fe985dcb24154456254e252d1fa4a2b6b656ee80/mariadb/logo.png" alt="mariadb" width="40" height="40" /></a>
   <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
-  <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
-  <a href="https://stackshare.io/mint" target="_blank"><img src="https://www.iconninja.com/files/285/481/159/linux-mint-icon.svg" alt="java" width="40" height="40" /></a>
+  <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
+  <a href="https://stackshare.io/mint" target="_blank"><img src="https://www.iconninja.com/files/285/481/159/linux-mint-icon.svg" alt="mint" width="40" height="40" /></a>
+  <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+  <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
+  <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
 </p>
 
 ```golang 
