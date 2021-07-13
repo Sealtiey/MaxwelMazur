@@ -1,9 +1,8 @@
 # Olá, eu sou Maxwel Mazur 
 
 ```ruby 
-class Programmer
-
-	def initialize() 
+package programmer
+  func init() {}
 ```
 
 <p align="left">
