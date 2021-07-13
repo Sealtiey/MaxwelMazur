@@ -2,7 +2,8 @@
 
 ```golang 
 package programmer
-  func init() {
+ 
+func init() {
 ```
 
 <p align="left">
@@ -48,5 +49,5 @@ package programmer
     </p>
 
 ```golang 
-   {  
+{  
 ```
