@@ -32,7 +32,6 @@ func init() {
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
   <a href="#"><img src="https://www.iconninja.com/files/285/481/159/linux-mint-icon.svg" alt="mint" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
-  <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
 </p>
 
