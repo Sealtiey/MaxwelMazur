@@ -20,6 +20,7 @@ func init() {
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4 align="left">Skills:</h4>
+  <a href="https://stackshare.io/rails" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQnMdJV3ApiU3GVDtZId7eCPbxhCePZ_W7w&usqp=CAU" alt="go" width="40" height="40" /></a>
   <a href="https://stackshare.io/rails" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" alt="rails" width="40" height="40" /></a>
   <a href="https://stackshare.io/ruby" target="_blank"><img src="https://image.flaticon.com/icons/png/512/919/919842.png" alt="ruby" width="40" height="40" /></a>
   <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
