@@ -29,8 +29,7 @@ func init() {
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
   <a href="#"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="mysql" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
-  <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
-  <a href="#"><img src="https://www.iconninja.com/files/285/481/159/linux-mint-icon.svg" alt="mint" width="40" height="40" /></a>
+  <a href="#"><img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
 </p>
