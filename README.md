@@ -30,6 +30,7 @@ func init() {
   <a href="#"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/mysql-workbench-icon.png" alt="mysql" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
   <a href="#"><img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40" /></a>
+  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" alt="neovim" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
 </p>
