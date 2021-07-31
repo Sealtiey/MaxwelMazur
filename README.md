@@ -15,8 +15,6 @@ func init() {
 
 ---
 
-<img align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif" width="70%" height="500px" />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h4 align="left">Skills:</h4>
@@ -33,6 +31,10 @@ func init() {
   <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" alt="neovim" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
   <a href="#"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+</p>
+
+<p>
+  <img align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif" width="70%" height="500px" />
 </p>
 
 ```golang 
