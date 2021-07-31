@@ -50,14 +50,13 @@ func init() {
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="manjaro" height="30" width="40" src="https://manjaro.org/img/logo.svg" />
+  <img align="center" alt="neovim" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" />
+ 
   <img align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif"  height="80px" />
-  <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" alt="neovim" width="40" height="40" />
 </div>
   
   ##
