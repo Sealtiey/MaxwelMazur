@@ -18,6 +18,7 @@ class programmer
   <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="ruby" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="ruby" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
   <img align="center" alt="rails" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
   <img align="center" alt="go" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQnMdJV3ApiU3GVDtZId7eCPbxhCePZ_W7w&usqp=CAU">
   <img align="center" alt="mysql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
