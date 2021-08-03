@@ -30,7 +30,7 @@ class programmer
   <img align="center" alt="neovim" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" />
   <img align="center" alt="manjaro" height="30" width="40" src="https://manjaro.org/img/logo.svg" />
  
-  <img align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif"  height="130px" />
+  <img style="margin: 5px;" align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif"  height="130px" />
 </div>
   
   ##
