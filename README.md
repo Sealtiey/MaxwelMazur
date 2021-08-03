@@ -41,4 +41,4 @@ class programmer
   ![Snake animation](https://github.com/MaxwelMazur/MaxwelMazur/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  <img style="margin: 5px; padding: 5px;" align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif"  height="130px" />
+  <img style="margin: 5px; padding: 5px;" align="right" alt="GIF" src="http://www.deusdogif.com.br/Img/3/30/481e5c97bb0c958a7b9d05f42e8b9515.gif"  width="100%" />
