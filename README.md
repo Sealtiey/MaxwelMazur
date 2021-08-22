@@ -31,8 +31,6 @@ class programmer
   <img align="center" alt="vscode" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <img align="center" alt="neovim" height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlqd5V8gJ87eKAALEkiMtxhneDMxHcyl-23z3XQUmXS8s2xKKdohAzjk&s=10" />
   <img align="center" alt="archlinux" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
-  <img align="center" alt="manjaro" height="30" width="40" src="https://manjaro.org/img/logo.svg" />
- 
 </div>
   
   ##
