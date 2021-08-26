@@ -3,7 +3,8 @@
 
 ```go 
 package programmer
-  func init() {
+
+func init() {
 ```
 
  <div>
