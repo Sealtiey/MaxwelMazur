@@ -1,9 +1,9 @@
 
 ## Hi! I am Maxwel Mazur 
 
-```ruby 
-class programmer
-  def initialize
+```go 
+package programmer
+  func init() {
 ```
 
  <div>
