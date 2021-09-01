@@ -9,7 +9,7 @@ func init() {
 
  <div>
   <a href="https://github.com/MaxwelMazur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwelMazur&show_icons=true&theme=atomize&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwelMazur&show_icons=true&theme=atomize_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwelMazur&layout=compact&langs_count=7&theme=atomize"/>
 </div>
 <div style="display: inline_block"><br>
