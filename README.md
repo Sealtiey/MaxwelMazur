@@ -8,7 +8,6 @@ var welcome string
 
 func init() { 
   welcome = `
-  Hi! I am Maxwel Mazur
                                             / ~ \
                                            (  oo |       They've shut down
                                            _\ = /_       the main reactor.
