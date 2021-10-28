@@ -9,7 +9,7 @@ var welcome string
 func init() { 
   welcome = `
                                             / ~ \
-                                           (  oo |       They1 ve shut down
+                                           (  oo |       They've shut down
                                            _\ = /_       the main reactor.
                          _____         #  /       \
                         /   ()\        \\//| /.\ |\\
