@@ -4,8 +4,10 @@
 ```go 
 package programmer
 
+var welcome string
+
 func init() { 
-  start := `
+  welcome = `
                                             / ~ \
                                            (  oo |       They1 ve shut down
                                            _\ = /_       the main reactor.
@@ -22,7 +24,7 @@ ______________________[_]_[_]_[_]__________/_]_[_\______________________________
 }
 
 func main() {
-  println(start)
+  println(welcome)
 }
 ```
 
