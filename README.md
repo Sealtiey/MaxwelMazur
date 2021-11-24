@@ -1,8 +1,5 @@
-
-
-
 <div style="display: inline_block;">
-  <span style="font-size: 31px;">Hi, I’m @MaxwelMazur</span>
+  <span style="font-size: 31px;">Hi, I’m Maxwel!!</span>
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="20px">
 </div><br>
 <div>
