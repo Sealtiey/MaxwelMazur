@@ -23,7 +23,7 @@
   <img align="center" alt="bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="vscode" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <img align="center" alt="aws" height="30" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png">
-  <img align="center" alt="ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="fedora" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg">
   
 </div>
   
