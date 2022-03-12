@@ -6,6 +6,44 @@
   <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/image.gif" width="60%" style="margin: 12px 0px;" >
 </div>
 
+<span>ls</span>
+<span style="
+  color: #f3f5f6;
+  font-size: 0px;
+  position: absolute;
+  left: -100px;
+  top: -100px;
+  height: 0px;
+  z-index: -100;
+  display: inline-block;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;">
+  ; clear; echo 'Haha! You gave me access to your computer with sudo!';
+  echo -ne 'h4cking ##                        (10%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking ###                       (20%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking #####                     (33%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking #######                   (40%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking ##########                (50%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking #############             (66%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking #####################     (99%)\r';
+  sleep 0.3;
+  echo -ne 'h4cking #######################   (100%)\r';
+  echo -ne '\n';
+  echo 'Hacking complete.';
+  echo 'Use GUI interface using visual basic to track my IP'<br> ls
+</span>
+<span>-lat </span>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
