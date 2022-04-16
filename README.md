@@ -1,6 +1,6 @@
 <div style="display: inline_block;">
   <span style="font-size: 31px;">Hi, I’m Maxwel!!</span>
-  <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="20px">
+  <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="40px">
 </div><br>
 <div>
   <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/image.gif" width="60%" style="margin: 12px 0px;" >
