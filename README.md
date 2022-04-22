@@ -3,6 +3,7 @@
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="40px">
 </div><br>
 <div>
+  <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/image.gif" width="40%" style="margin: 12px 0px;" >
   <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/image.gif" width="60%" style="margin: 12px 0px;" >
 </div>
 
