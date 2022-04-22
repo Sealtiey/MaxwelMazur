@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <div style="display: flex; margin: 15px 5px;">
-    <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/https://github.com/MaxwelMazur/MaxwelMazur/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif" width="100%" style="margin: 12px 0px;" >
+    <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif" width="100%" style="margin: 12px 0px;" >
   </div>
 </div>
 
