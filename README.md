@@ -3,11 +3,7 @@
   <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="40px">
 </div><br>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <div style="display: flex; margin: 15px 5px;">
-    <img src="https://github.com/MaxwelMazur/MaxwelMazur/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif" width="100%" style="margin: 12px 0px;" >
-  </div>
-</div>
+[](https://github.com/MaxwelMazur/MaxwelMazur/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
