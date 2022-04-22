@@ -4,11 +4,11 @@
 </div><br>
 
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-  
-
-
 
 ---
+
+![](68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif)
+![](68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3338342f302a413645425f596b6b73356250705f724d2e676966.gif)
 
 | Skills  |
 | ------ |
@@ -29,7 +29,7 @@
 | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) |
 
 
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
+<!-- [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Docker](https://img.shields.io/badge/Docker-00ADD8?style=flat&logo=Docker&logoColor=white&color=blue)](https://hub.docker.com/)
 [![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)](https://pt.wikipedia.org/wiki/Shell_script)
@@ -39,9 +39,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&color=orange)](https://aws.amazon.com/)
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
+ -->
 
-
-  <img align="center" alt="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> |
+<!--   <img align="center" alt="Sass" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> |
   <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
   <img align="center" alt="Node" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> | 
   <img align="center" alt="Php" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> | 
@@ -56,7 +56,6 @@
   <img align="center" alt="git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"> |
   <img align="center" alt="vscode" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"> | 
   <img align="center" alt="aws" height="30" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> |
-  <img align="center" alt="fedora" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg"> |
+  <img align="center" alt="fedora" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg"> | -->
   
-![](68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif)
-![](68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3338342f302a413645425f596b6b73356250705f724d2e676966.gif)
+
