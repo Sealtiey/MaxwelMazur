@@ -3,6 +3,7 @@
   <span style="font-size: 31px;">Hi, I’m Maxwel!!</span>
 </div><br>
 
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png">Buy Me A Coffe</a>
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 
