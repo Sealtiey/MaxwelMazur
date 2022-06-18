@@ -11,7 +11,14 @@
 
 >I'm a nerdy enthusiast of the type of guy who likes to understand the details and pays close attention to them, crazy and passionate about technology, that I can contribute to its evolution, and the force be with us
 
-<!-- --- -->
+<!--
+tdd
+ddd
+clean architecture
+clean code
+kubernetes
+
+--- -->
 
 <!-- <img src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c474b5858585167376569704c42734d49622f67697068792e676966.gif" height="250px" width="100%">   -->
 <!-- 
