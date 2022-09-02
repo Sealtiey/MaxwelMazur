@@ -6,8 +6,8 @@
 <!-- 
 <a  href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/1200px-QR_code_for_mobile_English_Wikipedia.svg.png" target="_blank" style="color: black;">Buy Me A Coffe</a> 
 -->
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-
+<!--![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+-->
 
 >I'm a nerdy enthusiast of the type of guy who likes to understand the details and pays close attention to them, crazy and passionate about technology, that I can contribute to its evolution, and the force be with us
 
